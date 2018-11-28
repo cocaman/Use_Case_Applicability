@@ -36,5 +36,5 @@
           "value": "Confirmed Attack attempt without IR actions",
 		  "description":"This category reflects an attempt by a threat actor, which in the end could be prevented by in place security measures but passed security controls associated with the delivery phase of the Cyber Kill Chain."
         }      
-  ],
+  ]
 }
